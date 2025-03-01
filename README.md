@@ -55,4 +55,4 @@ Este projeto pode ser facilmente implementado em plataformas como:
 
 ---
 
-Criado com ❤️ por IA
+Criado com ❤️ Guilherme Satoshi
